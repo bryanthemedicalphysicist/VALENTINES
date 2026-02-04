@@ -8,7 +8,7 @@ const MusicHaven: React.FC = () => {
   const [hasError, setHasError] = useState(false);
   
   // This URL can be updated manually to point to your hosted audio file
-  const [audioUrl] = useState<string | null>("https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"); 
+  const [audioUrl] = useState<string | null>("https://res.cloudinary.com/dmf3swlql/video/upload/v1770185335/lloyiso-let-me-love-you-now_j4nvma.mp3"); 
   const [fileName] = useState<string>("Our Love Theme");
   
   const audioRef = useRef<HTMLAudioElement | null>(null);
