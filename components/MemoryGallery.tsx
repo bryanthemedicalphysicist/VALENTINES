@@ -5,35 +5,35 @@ import { Memory } from '../types';
 const MEMORIES: Memory[] = [
   { 
     id: '0', 
-    imageUrl: 'https://images.unsplash.com/photo-1518005020453-1cc744a70c39?auto=format&fit=crop&q=80&w=600', 
+    imageUrl: 'https://res.cloudinary.com/dmf3swlql/image/upload/v1770190551/1001673531_cm8r5p.jpg', 
     caption: 'The most beautiful view in the world', 
     date: 'Always',
     rotation: -2
   },
   { 
     id: '1', 
-    imageUrl: 'https://images.unsplash.com/photo-1516589174184-c68526674fd6?auto=format&fit=crop&q=80&w=600', 
+    imageUrl: 'https://res.cloudinary.com/dmf3swlql/image/upload/v1770190857/Amantle_Bae_20160501_073349_bqewgc.jpg', 
     caption: 'First Love: When I first fell in love with you', 
     date: '2013',
     rotation: 3
   },
   { 
     id: '2', 
-    imageUrl: 'https://images.unsplash.com/photo-1520110120835-c96a9ef95692?auto=format&fit=crop&q=80&w=600', 
+    imageUrl: 'https://res.cloudinary.com/dmf3swlql/image/upload/v1770190539/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA2L3YxMDI1LTE2LWt0Yjk0eHFmLmpwZw_cpuxzg.webp', 
     caption: 'Tragedy: The year we broke up', 
     date: '2016',
     rotation: -3
   },
   { 
     id: '3', 
-    imageUrl: 'https://images.unsplash.com/photo-1518199266791-5375a83190b7?auto=format&fit=crop&q=80&w=600', 
+    imageUrl: 'https://res.cloudinary.com/dmf3swlql/image/upload/v1770190552/1001718059_ccj6ry.jpg', 
     caption: 'Connection: The magic of us reconnecting', 
     date: '2025',
     rotation: 2
   },
   { 
     id: '4', 
-    imageUrl: 'https://images.unsplash.com/photo-1494774157365-9e04c6720e47?auto=format&fit=crop&q=80&w=600', 
+    imageUrl: 'https://res.cloudinary.com/dmf3swlql/image/upload/v1770190552/1001718067_djmh9k.jpg', 
     caption: 'Forever: We got back together until forever', 
     date: '2026',
     rotation: -1
