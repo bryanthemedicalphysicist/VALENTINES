@@ -1,5 +1,6 @@
 
 import React, { useState, useEffect } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import FloatingHearts from './components/FloatingHearts';
 import LoveLetter from './components/LoveLetter';
 import MemoryGallery from './components/MemoryGallery';
@@ -158,6 +159,7 @@ const App: React.FC = () => {
           </div>
         </div>
       </footer>
+      <SpeedInsights />
     </div>
   );
 };
